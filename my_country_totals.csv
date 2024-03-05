@@ -1,0 +1,556 @@
+country,country_name,type,level,year,amount
+AL,Albania,Energy absorbed by pumping,Total,2016,0.0
+AL,Albania,Energy absorbed by pumping,Total,2017,0.0
+AL,Albania,Energy absorbed by pumping,Total,2018,0.0
+AL,Albania,Energy supplied,Total,2016,7094.0
+AL,Albania,Energy supplied,Total,2017,7412.434999999999
+AL,Albania,Energy supplied,Total,2018,7683.232000000001
+AL,Albania,Exports,Total,2016,42.0
+AL,Albania,Exports,Total,2017,0.0
+AL,Albania,Exports,Total,2018,2685.047
+AL,Albania,Imports,Total,2016,0.0
+AL,Albania,Imports,Total,2017,2914.628
+AL,Albania,Imports,Total,2018,1771.742
+AL,Albania,Total net production,Total,2016,7136.0
+AL,Albania,Total net production,Total,2017,4497.807
+AL,Albania,Total net production,Total,2018,8596.537
+AT,Austria,Energy absorbed by pumping,Total,2016,4253.498
+AT,Austria,Energy absorbed by pumping,Total,2017,5610.607
+AT,Austria,Energy absorbed by pumping,Total,2018,5116.052000000001
+AT,Austria,Energy supplied,Total,2016,67766.64300000001
+AT,Austria,Energy supplied,Total,2017,68625.46999999999
+AT,Austria,Energy supplied,Total,2018,69418.54599999999
+AT,Austria,Exports,Total,2016,19206.889
+AT,Austria,Exports,Total,2017,22816.512
+AT,Austria,Exports,Total,2018,19129.33
+AT,Austria,Imports,Total,2016,26366.16
+AT,Austria,Imports,Total,2017,29362.427
+AT,Austria,Imports,Total,2018,28076.136
+AT,Austria,Total net production,Total,2016,64860.87
+AT,Austria,Total net production,Total,2017,67690.162
+AT,Austria,Total net production,Total,2018,65587.79199999999
+BA,Bosnia & Herzegovina,Energy absorbed by pumping,Total,2016,0.0
+BA,Bosnia & Herzegovina,Energy absorbed by pumping,Total,2017,266.0
+BA,Bosnia & Herzegovina,Energy absorbed by pumping,Total,2018,50.591
+BA,Bosnia & Herzegovina,Energy supplied,Total,2016,12852.0
+BA,Bosnia & Herzegovina,Energy supplied,Total,2017,13132.0
+BA,Bosnia & Herzegovina,Energy supplied,Total,2018,5118.599999999999
+BA,Bosnia & Herzegovina,Exports,Total,2016,6841.0
+BA,Bosnia & Herzegovina,Exports,Total,2017,5187.0
+BA,Bosnia & Herzegovina,Exports,Total,2018,3820.822000000001
+BA,Bosnia & Herzegovina,Imports,Total,2016,3084.0
+BA,Bosnia & Herzegovina,Imports,Total,2017,3346.0
+BA,Bosnia & Herzegovina,Imports,Total,2018,1487.586
+BA,Bosnia & Herzegovina,Total net production,Total,2016,16609.0
+BA,Bosnia & Herzegovina,Total net production,Total,2017,15239.0
+BA,Bosnia & Herzegovina,Total net production,Total,2018,7502.427
+BE,Belgium,Energy absorbed by pumping,Total,2016,1475.0
+BE,Belgium,Energy absorbed by pumping,Total,2017,1485.4
+BE,Belgium,Energy absorbed by pumping,Total,2018,1347.901
+BE,Belgium,Energy supplied,Total,2016,87228.0
+BE,Belgium,Energy supplied,Total,2017,87484.7
+BE,Belgium,Energy supplied,Total,2018,85192.007
+BE,Belgium,Exports,Total,2016,8465.0
+BE,Belgium,Exports,Total,2017,8167.8
+BE,Belgium,Exports,Total,2018,4308.347
+BE,Belgium,Imports,Total,2016,14648.0
+BE,Belgium,Imports,Total,2017,14189.4
+BE,Belgium,Imports,Total,2018,21635.908
+BE,Belgium,Total net production,Total,2016,82520.0
+BE,Belgium,Total net production,Total,2017,82948.5
+BE,Belgium,Total net production,Total,2018,69212.347
+BG,Bulgaria,Energy absorbed by pumping,Total,2016,918.0
+BG,Bulgaria,Energy absorbed by pumping,Total,2017,949.527
+BG,Bulgaria,Energy absorbed by pumping,Total,2018,425.0
+BG,Bulgaria,Energy supplied,Total,2016,33931.0
+BG,Bulgaria,Energy supplied,Total,2017,34921.405
+BG,Bulgaria,Energy supplied,Total,2018,33473.0
+BG,Bulgaria,Exports,Total,2016,10940.0
+BG,Bulgaria,Exports,Total,2017,9185.794
+BG,Bulgaria,Exports,Total,2018,10030.0
+BG,Bulgaria,Imports,Total,2016,4568.0
+BG,Bulgaria,Imports,Total,2017,3705.423
+BG,Bulgaria,Imports,Total,2018,2223.0
+BG,Bulgaria,Total net production,Total,2016,41221.0
+BG,Bulgaria,Total net production,Total,2017,41351.303
+BG,Bulgaria,Total net production,Total,2018,41705.0
+CY,Cyprus,Energy absorbed by pumping,Total,2016,0.0
+CY,Cyprus,Energy absorbed by pumping,Total,2017,0.0
+CY,Cyprus,Energy absorbed by pumping,Total,2018,0.0
+CY,Cyprus,Energy supplied,Total,2016,4667.638
+CY,Cyprus,Energy supplied,Total,2017,4778.280000000001
+CY,Cyprus,Energy supplied,Total,2018,4791.084999999999
+CY,Cyprus,Exports,Total,2016,0.0
+CY,Cyprus,Exports,Total,2017,0.0
+CY,Cyprus,Exports,Total,2018,0.0
+CY,Cyprus,Imports,Total,2016,0.0
+CY,Cyprus,Imports,Total,2017,0.0
+CY,Cyprus,Imports,Total,2018,0.0
+CY,Cyprus,Total net production,Total,2016,4667.638
+CY,Cyprus,Total net production,Total,2017,4778.280000000001
+CY,Cyprus,Total net production,Total,2018,4791.084999999999
+CZ,Czechia,Energy absorbed by pumping,Total,2016,1570.0
+CZ,Czechia,Energy absorbed by pumping,Total,2017,1530.5
+CZ,Czechia,Energy absorbed by pumping,Total,2018,1372.8840000000002
+CZ,Czechia,Energy supplied,Total,2016,63854.0
+CZ,Czechia,Energy supplied,Total,2017,65318.36600000001
+CZ,Czechia,Energy supplied,Total,2018,66687.651
+CZ,Czechia,Exports,Total,2016,24791.0
+CZ,Czechia,Exports,Total,2017,28108.9
+CZ,Czechia,Exports,Total,2018,25480.503
+CZ,Czechia,Imports,Total,2016,13817.0
+CZ,Czechia,Imports,Total,2017,15072.0
+CZ,Czechia,Imports,Total,2018,11573.411
+CZ,Czechia,Total net production,Total,2016,76398.0
+CZ,Czechia,Total net production,Total,2017,79885.766
+CZ,Czechia,Total net production,Total,2018,81967.62700000001
+DE,Germany,Energy absorbed by pumping,Total,2016,7497.0
+DE,Germany,Energy absorbed by pumping,Total,2017,8252.0
+DE,Germany,Energy absorbed by pumping,Total,2018,8347.706
+DE,Germany,Energy supplied,Total,2016,556133.0
+DE,Germany,Energy supplied,Total,2017,558348.0
+DE,Germany,Energy supplied,Total,2018,514966.03900000016
+DE,Germany,Exports,Total,2016,78863.0
+DE,Germany,Exports,Total,2017,80301.0
+DE,Germany,Exports,Total,2018,80187.327
+DE,Germany,Imports,Total,2016,28338.0
+DE,Germany,Imports,Total,2017,27842.0
+DE,Germany,Imports,Total,2018,31701.359000000004
+DE,Germany,Total net production,Total,2016,614155.0
+DE,Germany,Total net production,Total,2017,619059.0
+DE,Germany,Total net production,Total,2018,571799.7130000001
+DK,Denmark,Energy absorbed by pumping,Total,2016,0.0
+DK,Denmark,Energy absorbed by pumping,Total,2017,0.0
+DK,Denmark,Energy absorbed by pumping,Total,2018,0.0
+DK,Denmark,Energy supplied,Total,2016,34135.025
+DK,Denmark,Energy supplied,Total,2017,34216.397
+DK,Denmark,Energy supplied,Total,2018,34163.43200000001
+DK,Denmark,Exports,Total,2016,9919.365
+DK,Denmark,Exports,Total,2017,10655.394
+DK,Denmark,Exports,Total,2018,10409.265999999998
+DK,Denmark,Imports,Total,2016,14976.458
+DK,Denmark,Imports,Total,2017,15218.109
+DK,Denmark,Imports,Total,2018,15633.609
+DK,Denmark,Total net production,Total,2016,29077.932
+DK,Denmark,Total net production,Total,2017,29653.682
+DK,Denmark,Total net production,Total,2018,28939.089
+EE,Estonia,Energy absorbed by pumping,Total,2016,0.0
+EE,Estonia,Energy absorbed by pumping,Total,2017,0.0
+EE,Estonia,Energy absorbed by pumping,Total,2018,0.0
+EE,Estonia,Energy supplied,Total,2016,8387.0
+EE,Estonia,Energy supplied,Total,2017,8500.0
+EE,Estonia,Energy supplied,Total,2018,8937.443
+EE,Estonia,Exports,Total,2016,5614.0
+EE,Estonia,Exports,Total,2017,5015.0
+EE,Estonia,Exports,Total,2018,4949.7
+EE,Estonia,Imports,Total,2016,3577.0
+EE,Estonia,Imports,Total,2017,2281.0
+EE,Estonia,Imports,Total,2018,3053.0
+EE,Estonia,Total net production,Total,2016,10424.0
+EE,Estonia,Total net production,Total,2017,11234.0
+EE,Estonia,Total net production,Total,2018,10834.142999999998
+EL,Greece,Energy absorbed by pumping,Total,2016,32.0
+EL,Greece,Energy absorbed by pumping,Total,2017,110.0
+EL,Greece,Energy absorbed by pumping,Total,2018,28.49
+EL,Greece,Energy supplied,Total,2016,58991.0
+EL,Greece,Energy supplied,Total,2017,56716.215
+EL,Greece,Energy supplied,Total,2018,57199.33900000001
+EL,Greece,Exports,Total,2016,1037.0
+EL,Greece,Exports,Total,2017,2459.0
+EL,Greece,Exports,Total,2018,2186.68
+EL,Greece,Imports,Total,2016,9833.0
+EL,Greece,Imports,Total,2017,8696.0
+EL,Greece,Imports,Total,2018,8705.56
+EL,Greece,Total net production,Total,2016,50227.0
+EL,Greece,Total net production,Total,2017,50589.215
+EL,Greece,Total net production,Total,2018,50708.94900000001
+ES,Spain,Energy absorbed by pumping,Total,2016,4819.0
+ES,Spain,Energy absorbed by pumping,Total,2017,3675.0
+ES,Spain,Energy absorbed by pumping,Total,2018,3197.636
+ES,Spain,Energy supplied,Total,2016,267192.0
+ES,Spain,Energy supplied,Total,2017,270412.0
+ES,Spain,Energy supplied,Total,2018,268975.67000000004
+ES,Spain,Exports,Total,2016,14178.0
+ES,Spain,Exports,Total,2017,14593.0
+ES,Spain,Exports,Total,2018,12915.79
+ES,Spain,Imports,Total,2016,21845.0
+ES,Spain,Imports,Total,2017,23762.0
+ES,Spain,Imports,Total,2018,24017.905
+ES,Spain,Total net production,Total,2016,264344.0
+ES,Spain,Total net production,Total,2017,264918.0
+ES,Spain,Total net production,Total,2018,261071.19100000005
+FI,Finland,Energy absorbed by pumping,Total,2016,0.0
+FI,Finland,Energy absorbed by pumping,Total,2017,0.0
+FI,Finland,Energy absorbed by pumping,Total,2018,0.0
+FI,Finland,Energy supplied,Total,2016,85151.0
+FI,Finland,Energy supplied,Total,2017,85463.0
+FI,Finland,Energy supplied,Total,2018,87360.674
+FI,Finland,Exports,Total,2016,3159.0
+FI,Finland,Exports,Total,2017,1779.0
+FI,Finland,Exports,Total,2018,2611.0
+FI,Finland,Imports,Total,2016,22110.0
+FI,Finland,Imports,Total,2017,22204.0
+FI,Finland,Imports,Total,2018,22548.0
+FI,Finland,Total net production,Total,2016,66200.0
+FI,Finland,Total net production,Total,2017,65038.0
+FI,Finland,Total net production,Total,2018,67423.674
+FR,France,Energy absorbed by pumping,Total,2016,6723.585
+FR,France,Energy absorbed by pumping,Total,2017,7104.325000000001
+FR,France,Energy absorbed by pumping,Total,2018,7331.316999999998
+FR,France,Energy supplied,Total,2016,492543.369
+FR,France,Energy supplied,Total,2017,490823.998
+FR,France,Energy supplied,Total,2018,481085.6160000001
+FR,France,Exports,Total,2016,61404.0
+FR,France,Exports,Total,2017,61248.0
+FR,France,Exports,Total,2018,76094.985
+FR,France,Imports,Total,2016,19903.0
+FR,France,Imports,Total,2017,21134.0
+FR,France,Imports,Total,2018,12826.095
+FR,France,Total net production,Total,2016,540767.954
+FR,France,Total net production,Total,2017,538042.323
+FR,France,Total net production,Total,2018,551685.8230000001
+GE,Georgia,Energy absorbed by pumping,Total,2016,0.0
+GE,Georgia,Energy absorbed by pumping,Total,2017,0.0
+GE,Georgia,Energy absorbed by pumping,Total,2018,214.946
+GE,Georgia,Energy supplied,Total,2016,11285.0
+GE,Georgia,Energy supplied,Total,2017,12127.3
+GE,Georgia,Energy supplied,Total,2018,12853.73
+GE,Georgia,Exports,Total,2016,1409.0
+GE,Georgia,Exports,Total,2017,939.7
+GE,Georgia,Exports,Total,2018,602.0380000000001
+GE,Georgia,Imports,Total,2016,1329.0
+GE,Georgia,Imports,Total,2017,1751.2
+GE,Georgia,Imports,Total,2018,1522.2
+GE,Georgia,Total net production,Total,2016,11365.0
+GE,Georgia,Total net production,Total,2017,11315.8
+GE,Georgia,Total net production,Total,2018,12148.514
+HR,Croatia,Energy absorbed by pumping,Total,2016,294.0
+HR,Croatia,Energy absorbed by pumping,Total,2017,286.2
+HR,Croatia,Energy absorbed by pumping,Total,2018,118.552
+HR,Croatia,Energy supplied,Total,2016,17521.0
+HR,Croatia,Energy supplied,Total,2017,18190.4
+HR,Croatia,Energy supplied,Total,2018,18537.364
+HR,Croatia,Exports,Total,2016,6867.0
+HR,Croatia,Exports,Total,2017,5204.2
+HR,Croatia,Exports,Total,2018,7292.952999999999
+HR,Croatia,Imports,Total,2016,12398.0
+HR,Croatia,Imports,Total,2017,12157.9
+HR,Croatia,Imports,Total,2018,12692.328999999998
+HR,Croatia,Total net production,Total,2016,12284.0
+HR,Croatia,Total net production,Total,2017,11522.9
+HR,Croatia,Total net production,Total,2018,13256.54
+HU,Hungary,Energy absorbed by pumping,Total,2016,0.0
+HU,Hungary,Energy absorbed by pumping,Total,2017,0.0
+HU,Hungary,Energy absorbed by pumping,Total,2018,0.0
+HU,Hungary,Energy supplied,Total,2016,42259.0
+HU,Hungary,Energy supplied,Total,2017,43554.0
+HU,Hungary,Energy supplied,Total,2018,44098.104
+HU,Hungary,Exports,Total,2016,5240.0
+HU,Hungary,Exports,Total,2017,6925.0
+HU,Hungary,Exports,Total,2018,4265.07
+HU,Hungary,Imports,Total,2016,17951.0
+HU,Hungary,Imports,Total,2017,19803.0
+HU,Hungary,Imports,Total,2018,18613.295
+HU,Hungary,Total net production,Total,2016,29548.0
+HU,Hungary,Total net production,Total,2017,30676.0
+HU,Hungary,Total net production,Total,2018,29749.879
+IE,Ireland,Energy absorbed by pumping,Total,2016,532.404
+IE,Ireland,Energy absorbed by pumping,Total,2017,398.643
+IE,Ireland,Energy absorbed by pumping,Total,2018,499.328
+IE,Ireland,Energy supplied,Total,2016,28445.088000000003
+IE,Ireland,Energy supplied,Total,2017,29009.829
+IE,Ireland,Energy supplied,Total,2018,28707.828
+IE,Ireland,Exports,Total,2016,1583.011
+IE,Ireland,Exports,Total,2017,1794.91
+IE,Ireland,Exports,Total,2018,1649.2490000000005
+IE,Ireland,Imports,Total,2016,871.263
+IE,Ireland,Imports,Total,2017,1116.408
+IE,Ireland,Imports,Total,2018,1621.5190000000002
+IE,Ireland,Total net production,Total,2016,29689.24
+IE,Ireland,Total net production,Total,2017,30086.974
+IE,Ireland,Total net production,Total,2018,29234.886
+IT,Italy,Energy absorbed by pumping,Total,2016,2468.0
+IT,Italy,Energy absorbed by pumping,Total,2017,2478.162
+IT,Italy,Energy absorbed by pumping,Total,2018,2233.0
+IT,Italy,Energy supplied,Total,2016,314261.622
+IT,Italy,Energy supplied,Total,2017,320548.137
+IT,Italy,Energy supplied,Total,2018,321910.0
+IT,Italy,Exports,Total,2016,6154.0
+IT,Italy,Exports,Total,2017,5134.231
+IT,Italy,Exports,Total,2018,3270.0
+IT,Italy,Imports,Total,2016,43181.0
+IT,Italy,Imports,Total,2017,42894.881
+IT,Italy,Imports,Total,2018,47179.0
+IT,Italy,Total net production,Total,2016,279702.622
+IT,Italy,Total net production,Total,2017,285265.649
+IT,Italy,Total net production,Total,2018,280234.0
+LT,Lithuania,Energy absorbed by pumping,Total,2016,790.0
+LT,Lithuania,Energy absorbed by pumping,Total,2017,799.1
+LT,Lithuania,Energy absorbed by pumping,Total,2018,726.3199999999999
+LT,Lithuania,Energy supplied,Total,2016,11536.0
+LT,Lithuania,Energy supplied,Total,2017,11874.2
+LT,Lithuania,Energy supplied,Total,2018,12089.188000000002
+LT,Lithuania,Exports,Total,2016,2831.0
+LT,Lithuania,Exports,Total,2017,3249.0
+LT,Lithuania,Exports,Total,2018,3215.07
+LT,Lithuania,Imports,Total,2016,11106.0
+LT,Lithuania,Imports,Total,2017,11926.2
+LT,Lithuania,Imports,Total,2018,12847.483
+LT,Lithuania,Total net production,Total,2016,4051.0
+LT,Lithuania,Total net production,Total,2017,3996.1
+LT,Lithuania,Total net production,Total,2018,3183.0950000000003
+LU,Luxembourg,Energy absorbed by pumping,Total,2016,1942.514
+LU,Luxembourg,Energy absorbed by pumping,Total,2017,1833.679
+LU,Luxembourg,Energy absorbed by pumping,Total,2018,1717.5
+LU,Luxembourg,Energy supplied,Total,2016,6523.878
+LU,Luxembourg,Energy supplied,Total,2017,6549.101000000001
+LU,Luxembourg,Energy supplied,Total,2018,6608.700000000001
+LU,Luxembourg,Exports,Total,2016,1419.691
+LU,Luxembourg,Exports,Total,2017,1388.648
+LU,Luxembourg,Exports,Total,2018,1391.674
+LU,Luxembourg,Imports,Total,2016,7718.393
+LU,Luxembourg,Imports,Total,2017,7566.69
+LU,Luxembourg,Imports,Total,2018,7553.012000000001
+LU,Luxembourg,Total net production,Total,2016,2167.69
+LU,Luxembourg,Total net production,Total,2017,2204.738
+LU,Luxembourg,Total net production,Total,2018,2164.862
+LV,Latvia,Energy absorbed by pumping,Total,2016,0.0
+LV,Latvia,Energy absorbed by pumping,Total,2017,0.0
+LV,Latvia,Energy absorbed by pumping,Total,2018,0.0
+LV,Latvia,Energy supplied,Total,2016,6960.0
+LV,Latvia,Energy supplied,Total,2017,6960.693999999999
+LV,Latvia,Energy supplied,Total,2018,7408.0
+LV,Latvia,Exports,Total,2016,3795.0
+LV,Latvia,Exports,Total,2017,4137.077
+LV,Latvia,Exports,Total,2018,4264.0
+LV,Latvia,Imports,Total,2016,4828.0
+LV,Latvia,Imports,Total,2017,4072.912
+LV,Latvia,Imports,Total,2018,5172.0
+LV,Latvia,Total net production,Total,2016,5927.0
+LV,Latvia,Total net production,Total,2017,7024.859
+LV,Latvia,Total net production,Total,2018,6500.0
+ME,Montenegro,Energy absorbed by pumping,Total,2016,0.0
+ME,Montenegro,Energy absorbed by pumping,Total,2017,0.0
+ME,Montenegro,Energy absorbed by pumping,Total,2018,0.0
+ME,Montenegro,Energy supplied,Total,2016,3327.0
+ME,Montenegro,Energy supplied,Total,2017,3484.0000000000005
+ME,Montenegro,Energy supplied,Total,2018,9981.0
+ME,Montenegro,Exports,Total,2016,906.0
+ME,Montenegro,Exports,Total,2017,416.7
+ME,Montenegro,Exports,Total,2018,868.0
+ME,Montenegro,Imports,Total,2016,1210.0
+ME,Montenegro,Imports,Total,2017,1536.9
+ME,Montenegro,Imports,Total,2018,7106.0
+ME,Montenegro,Total net production,Total,2016,3023.0
+ME,Montenegro,Total net production,Total,2017,2363.8
+ME,Montenegro,Total net production,Total,2018,3743.0
+MK,North Macedonia,Energy absorbed by pumping,Total,2016,0.0
+MK,North Macedonia,Energy absorbed by pumping,Total,2017,0.0
+MK,North Macedonia,Energy absorbed by pumping,Total,2018,0.0
+MK,North Macedonia,Energy supplied,Total,2016,7315.006
+MK,North Macedonia,Energy supplied,Total,2017,7209.41
+MK,North Macedonia,Energy supplied,Total,2018,7123.500000000002
+MK,North Macedonia,Exports,Total,2016,159.853
+MK,North Macedonia,Exports,Total,2017,311.026
+MK,North Macedonia,Exports,Total,2018,5341.489
+MK,North Macedonia,Imports,Total,2016,2190.606
+MK,North Macedonia,Imports,Total,2017,2293.571
+MK,North Macedonia,Imports,Total,2018,7261.253000000001
+MK,North Macedonia,Total net production,Total,2016,5284.253
+MK,North Macedonia,Total net production,Total,2017,5226.865
+MK,North Macedonia,Total net production,Total,2018,5203.736000000001
+MT,Malta,Energy absorbed by pumping,Total,2016,0.0
+MT,Malta,Energy absorbed by pumping,Total,2017,0.0
+MT,Malta,Energy absorbed by pumping,Total,2018,0.0
+MT,Malta,Energy supplied,Total,2016,2332.16
+MT,Malta,Energy supplied,Total,2017,2455.826
+MT,Malta,Energy supplied,Total,2018,2509.14
+MT,Malta,Exports,Total,2016,
+MT,Malta,Exports,Total,2017,35.699
+MT,Malta,Exports,Total,2018,10.550999999999998
+MT,Malta,Imports,Total,2016,1525.0
+MT,Malta,Imports,Total,2017,897.066
+MT,Malta,Imports,Total,2018,631.2929999999999
+MT,Malta,Total net production,Total,2016,807.16
+MT,Malta,Total net production,Total,2017,1594.4589999999998
+MT,Malta,Total net production,Total,2018,1888.398
+NL,Netherlands,Energy absorbed by pumping,Total,2016,0.0
+NL,Netherlands,Energy absorbed by pumping,Total,2017,0.0
+NL,Netherlands,Energy absorbed by pumping,Total,2018,0.0
+NL,Netherlands,Energy supplied,Total,2016,115946.625
+NL,Netherlands,Energy supplied,Total,2017,116971.24599999998
+NL,Netherlands,Energy supplied,Total,2018,118412.37099999998
+NL,Netherlands,Exports,Total,2016,19343.254
+NL,Netherlands,Exports,Total,2017,18951.503
+NL,Netherlands,Exports,Total,2018,18157.0
+NL,Netherlands,Imports,Total,2016,24257.626
+NL,Netherlands,Imports,Total,2017,22457.715
+NL,Netherlands,Imports,Total,2018,24018.0
+NL,Netherlands,Total net production,Total,2016,111032.253
+NL,Netherlands,Total net production,Total,2017,113465.034
+NL,Netherlands,Total net production,Total,2018,112551.371
+NO,Norway,Energy absorbed by pumping,Total,2016,1427.0
+NO,Norway,Energy absorbed by pumping,Total,2017,1653.0
+NO,Norway,Energy absorbed by pumping,Total,2018,1021.492
+NO,Norway,Energy supplied,Total,2016,131229.0
+NO,Norway,Energy supplied,Total,2017,131824.0
+NO,Norway,Energy supplied,Total,2018,135674.50799999997
+NO,Norway,Exports,Total,2016,22151.0
+NO,Norway,Exports,Total,2017,21276.0
+NO,Norway,Exports,Total,2018,18488.911
+NO,Norway,Imports,Total,2016,5740.0
+NO,Norway,Imports,Total,2017,6111.0
+NO,Norway,Imports,Total,2018,8339.724
+NO,Norway,Total net production,Total,2016,149067.0
+NO,Norway,Total net production,Total,2017,148642.0
+NO,Norway,Total net production,Total,2018,146845.18699999998
+PL,Poland,Energy absorbed by pumping,Total,2016,744.0
+PL,Poland,Energy absorbed by pumping,Total,2017,734.88
+PL,Poland,Energy absorbed by pumping,Total,2018,660.599
+PL,Poland,Energy supplied,Total,2016,153258.0
+PL,Poland,Energy supplied,Total,2017,156421.464
+PL,Poland,Energy supplied,Total,2018,159130.40299999996
+PL,Poland,Exports,Total,2016,12018.0
+PL,Poland,Exports,Total,2017,10984.0
+PL,Poland,Exports,Total,2018,8121.301000000001
+PL,Poland,Imports,Total,2016,14017.0
+PL,Poland,Imports,Total,2017,13271.0
+PL,Poland,Imports,Total,2018,13815.803
+PL,Poland,Total net production,Total,2016,152003.0
+PL,Poland,Total net production,Total,2017,154869.344
+PL,Poland,Total net production,Total,2018,154096.49999999997
+PT,Portugal,Energy absorbed by pumping,Total,2016,1520.0
+PT,Portugal,Energy absorbed by pumping,Total,2017,2223.899
+PT,Portugal,Energy absorbed by pumping,Total,2018,1565.0
+PT,Portugal,Energy supplied,Total,2016,52257.052
+PT,Portugal,Energy supplied,Total,2017,52761.10700000001
+PT,Portugal,Energy supplied,Total,2018,53862.0
+PT,Portugal,Exports,Total,2016,9701.0
+PT,Portugal,Exports,Total,2017,8189.704
+PT,Portugal,Exports,Total,2018,8326.0
+PT,Portugal,Imports,Total,2016,4616.0
+PT,Portugal,Imports,Total,2017,5505.732
+PT,Portugal,Imports,Total,2018,5668.0
+PT,Portugal,Total net production,Total,2016,58862.052
+PT,Portugal,Total net production,Total,2017,57668.978
+PT,Portugal,Total net production,Total,2018,58085.0
+RO,Romania,Energy absorbed by pumping,Total,2016,660.0
+RO,Romania,Energy absorbed by pumping,Total,2017,466.424
+RO,Romania,Energy absorbed by pumping,Total,2018,0.0
+RO,Romania,Energy supplied,Total,2016,54579.0
+RO,Romania,Energy supplied,Total,2017,55995.380000000005
+RO,Romania,Energy supplied,Total,2018,56178.0
+RO,Romania,Exports,Total,2016,9194.0
+RO,Romania,Exports,Total,2017,7735.38
+RO,Romania,Exports,Total,2018,6239.0
+RO,Romania,Imports,Total,2016,4177.0
+RO,Romania,Imports,Total,2017,4841.754
+RO,Romania,Imports,Total,2018,3695.0
+RO,Romania,Total net production,Total,2016,60256.0
+RO,Romania,Total net production,Total,2017,59355.43
+RO,Romania,Total net production,Total,2018,58722.0
+RS,Serbia,Energy absorbed by pumping,Total,2016,1029.0
+RS,Serbia,Energy absorbed by pumping,Total,2017,938.05
+RS,Serbia,Energy absorbed by pumping,Total,2018,1067.938
+RS,Serbia,Energy supplied,Total,2016,33677.0
+RS,Serbia,Energy supplied,Total,2017,34185.552
+RS,Serbia,Energy supplied,Total,2018,34279.742000000006
+RS,Serbia,Exports,Total,2016,6990.0
+RS,Serbia,Exports,Total,2017,5724.139
+RS,Serbia,Exports,Total,2018,6293.513000000001
+RS,Serbia,Imports,Total,2016,5068.0
+RS,Serbia,Imports,Total,2017,6549.189
+RS,Serbia,Imports,Total,2018,6400.0070000000005
+RS,Serbia,Total net production,Total,2016,36628.0
+RS,Serbia,Total net production,Total,2017,34298.552
+RS,Serbia,Total net production,Total,2018,35241.18600000001
+SE,Sweden,Energy absorbed by pumping,Total,2016,170.0
+SE,Sweden,Energy absorbed by pumping,Total,2017,36.0
+SE,Sweden,Energy absorbed by pumping,Total,2018,56.301
+SE,Sweden,Energy supplied,Total,2016,140626.0
+SE,Sweden,Energy supplied,Total,2017,141498.0
+SE,Sweden,Energy supplied,Total,2018,141001.49899999995
+SE,Sweden,Exports,Total,2016,26022.0
+SE,Sweden,Exports,Total,2017,30888.0
+SE,Sweden,Exports,Total,2018,31671.103
+SE,Sweden,Imports,Total,2016,14287.0
+SE,Sweden,Imports,Total,2017,11896.0
+SE,Sweden,Imports,Total,2018,14441.815
+SE,Sweden,Total net production,Total,2016,152531.0
+SE,Sweden,Total net production,Total,2017,160526.0
+SE,Sweden,Total net production,Total,2018,158287.08799999996
+SI,Slovenia,Energy absorbed by pumping,Total,2016,373.0
+SI,Slovenia,Energy absorbed by pumping,Total,2017,365.3
+SI,Slovenia,Energy absorbed by pumping,Total,2018,252.43500000000003
+SI,Slovenia,Energy supplied,Total,2016,13997.0
+SI,Slovenia,Energy supplied,Total,2017,14515.916
+SI,Slovenia,Energy supplied,Total,2018,14529.653000000002
+SI,Slovenia,Exports,Total,2016,9535.0
+SI,Slovenia,Exports,Total,2017,9648.192
+SI,Slovenia,Exports,Total,2018,9432.404
+SI,Slovenia,Imports,Total,2016,8359.0
+SI,Slovenia,Imports,Total,2017,9132.532
+SI,Slovenia,Imports,Total,2018,8930.238000000001
+SI,Slovenia,Total net production,Total,2016,15546.0
+SI,Slovenia,Total net production,Total,2017,15396.876
+SI,Slovenia,Total net production,Total,2018,15284.254
+SK,Slovakia,Energy absorbed by pumping,Total,2016,334.0
+SK,Slovakia,Energy absorbed by pumping,Total,2017,418.0
+SK,Slovakia,Energy absorbed by pumping,Total,2018,401.0
+SK,Slovakia,Energy supplied,Total,2016,27314.0
+SK,Slovakia,Energy supplied,Total,2017,28302.0
+SK,Slovakia,Energy supplied,Total,2018,26997.0
+SK,Slovakia,Exports,Total,2016,10598.0
+SK,Slovakia,Exports,Total,2017,12535.0
+SK,Slovakia,Exports,Total,2018,8746.0
+SK,Slovakia,Imports,Total,2016,13249.0
+SK,Slovakia,Imports,Total,2017,15563.0
+SK,Slovakia,Imports,Total,2018,12427.0
+SK,Slovakia,Total net production,Total,2016,24997.0
+SK,Slovakia,Total net production,Total,2017,25692.0
+SK,Slovakia,Total net production,Total,2018,23717.0
+TR,Turkey,Energy absorbed by pumping,Total,2016,0.0
+TR,Turkey,Energy absorbed by pumping,Total,2017,0.0
+TR,Turkey,Energy absorbed by pumping,Total,2018,0.0
+TR,Turkey,Energy supplied,Total,2016,266815.0
+TR,Turkey,Energy supplied,Total,2017,283682.114
+TR,Turkey,Energy supplied,Total,2018,288675.00599999994
+TR,Turkey,Exports,Total,2016,1452.0
+TR,Turkey,Exports,Total,2017,3303.673
+TR,Turkey,Exports,Total,2018,3073.5800000000004
+TR,Turkey,Imports,Total,2016,6330.0
+TR,Turkey,Imports,Total,2017,2728.268
+TR,Turkey,Imports,Total,2018,2466.0080000000003
+TR,Turkey,Total net production,Total,2016,261937.0
+TR,Turkey,Total net production,Total,2017,284257.51900000003
+TR,Turkey,Total net production,Total,2018,289282.578
+UA,Ukraine,Energy absorbed by pumping,Total,2016,1633.0
+UA,Ukraine,Energy absorbed by pumping,Total,2017,1574.2
+UA,Ukraine,Energy absorbed by pumping,Total,2018,0.0
+UA,Ukraine,Energy supplied,Total,2016,146503.0
+UA,Ukraine,Energy supplied,Total,2017,138155.59999999998
+UA,Ukraine,Energy supplied,Total,2018,156020.2
+UA,Ukraine,Exports,Total,2016,3830.0
+UA,Ukraine,Exports,Total,2017,5226.0
+UA,Ukraine,Exports,Total,2018,4639.3
+UA,Ukraine,Imports,Total,2016,77.0
+UA,Ukraine,Imports,Total,2017,50.0
+UA,Ukraine,Imports,Total,2018,1587.0
+UA,Ukraine,Total net production,Total,2016,151889.0
+UA,Ukraine,Total net production,Total,2017,144905.8
+UA,Ukraine,Total net production,Total,2018,159072.5
+UK,United Kingdom,Energy absorbed by pumping,Total,2016,4014.34
+UK,United Kingdom,Energy absorbed by pumping,Total,2017,3859.19
+UK,United Kingdom,Energy absorbed by pumping,Total,2018,3390.8659999999995
+UK,United Kingdom,Energy supplied,Total,2016,338005.151
+UK,United Kingdom,Energy supplied,Total,2017,334340.277
+UK,United Kingdom,Energy supplied,Total,2018,333092.41399999993
+UK,United Kingdom,Exports,Total,2016,2272.866
+UK,United Kingdom,Exports,Total,2017,3407.049
+UK,United Kingdom,Exports,Total,2018,2224.764
+UK,United Kingdom,Imports,Total,2016,20017.923
+UK,United Kingdom,Imports,Total,2017,18166.98
+UK,United Kingdom,Imports,Total,2018,21332.415000000005
+UK,United Kingdom,Total net production,Total,2016,324274.434
+UK,United Kingdom,Total net production,Total,2017,323439.536
+UK,United Kingdom,Total net production,Total,2018,317375.629
