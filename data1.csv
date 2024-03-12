@@ -1,0 +1,217 @@
+,country,country_name,type,level,year,amount,difference
+1,AL,Albania,Energy supplied,Total,2016,7094,42
+4,AL,Albania,Total net production,Total,2016,7136,42
+2,AL,Albania,Energy supplied,Total,2017,7412.435,-2914.628
+5,AL,Albania,Total net production,Total,2017,4497.807,-2914.628
+3,AL,Albania,Energy supplied,Total,2018,7683.232,913.305
+6,AL,Albania,Total net production,Total,2018,8596.537,913.305
+7,AT,Austria,Energy supplied,Total,2016,67766.643,-2905.773
+10,AT,Austria,Total net production,Total,2016,64860.87,-2905.773
+8,AT,Austria,Energy supplied,Total,2017,68625.47,-935.308
+11,AT,Austria,Total net production,Total,2017,67690.162,-935.308
+9,AT,Austria,Energy supplied,Total,2018,69418.546,-3830.754
+12,AT,Austria,Total net production,Total,2018,65587.792,-3830.754
+13,BA,Bosnia & Herzegovina,Energy supplied,Total,2016,12852,3757
+16,BA,Bosnia & Herzegovina,Total net production,Total,2016,16609,3757
+14,BA,Bosnia & Herzegovina,Energy supplied,Total,2017,13132,2107
+17,BA,Bosnia & Herzegovina,Total net production,Total,2017,15239,2107
+15,BA,Bosnia & Herzegovina,Energy supplied,Total,2018,5118.6,2383.827
+18,BA,Bosnia & Herzegovina,Total net production,Total,2018,7502.427,2383.827
+19,BE,Belgium,Energy supplied,Total,2016,87228,-4708
+22,BE,Belgium,Total net production,Total,2016,82520,-4708
+20,BE,Belgium,Energy supplied,Total,2017,87484.7,-4536.2
+23,BE,Belgium,Total net production,Total,2017,82948.5,-4536.2
+21,BE,Belgium,Energy supplied,Total,2018,85192.007,-15979.66
+24,BE,Belgium,Total net production,Total,2018,69212.347,-15979.66
+25,BG,Bulgaria,Energy supplied,Total,2016,33931,7290
+28,BG,Bulgaria,Total net production,Total,2016,41221,7290
+26,BG,Bulgaria,Energy supplied,Total,2017,34921.405,6429.898
+29,BG,Bulgaria,Total net production,Total,2017,41351.303,6429.898
+27,BG,Bulgaria,Energy supplied,Total,2018,33473,8232
+30,BG,Bulgaria,Total net production,Total,2018,41705,8232
+31,CY,Cyprus,Energy supplied,Total,2016,4667.638,0
+34,CY,Cyprus,Total net production,Total,2016,4667.638,0
+32,CY,Cyprus,Energy supplied,Total,2017,4778.28,0
+35,CY,Cyprus,Total net production,Total,2017,4778.28,0
+33,CY,Cyprus,Energy supplied,Total,2018,4791.085,0
+36,CY,Cyprus,Total net production,Total,2018,4791.085,0
+37,CZ,Czechia,Energy supplied,Total,2016,63854,12544
+40,CZ,Czechia,Total net production,Total,2016,76398,12544
+38,CZ,Czechia,Energy supplied,Total,2017,65318.366,14567.4
+41,CZ,Czechia,Total net production,Total,2017,79885.766,14567.4
+39,CZ,Czechia,Energy supplied,Total,2018,66687.651,15279.976
+42,CZ,Czechia,Total net production,Total,2018,81967.627,15279.976
+43,DE,Germany,Energy supplied,Total,2016,556133,58022
+46,DE,Germany,Total net production,Total,2016,614155,58022
+44,DE,Germany,Energy supplied,Total,2017,558348,60711
+47,DE,Germany,Total net production,Total,2017,619059,60711
+45,DE,Germany,Energy supplied,Total,2018,514966.039,56833.674
+48,DE,Germany,Total net production,Total,2018,571799.713,56833.674
+52,DK,Denmark,Energy supplied,Total,2016,34135.025,-5057.093
+61,DK,Denmark,Total net production,Total,2016,29077.932,-5057.093
+53,DK,Denmark,Energy supplied,Total,2017,34216.397,-4562.715
+62,DK,Denmark,Total net production,Total,2017,29653.682,-4562.715
+54,DK,Denmark,Energy supplied,Total,2018,34163.432,-5224.343
+63,DK,Denmark,Total net production,Total,2018,28939.089,-5224.343
+67,EE,Estonia,Energy supplied,Total,2016,8387,2037
+76,EE,Estonia,Total net production,Total,2016,10424,2037
+68,EE,Estonia,Energy supplied,Total,2017,8500,2734
+77,EE,Estonia,Total net production,Total,2017,11234,2734
+69,EE,Estonia,Energy supplied,Total,2018,8937.443,1896.7
+78,EE,Estonia,Total net production,Total,2018,10834.143,1896.7
+82,EL,Greece,Energy supplied,Total,2016,58991,-8764
+91,EL,Greece,Total net production,Total,2016,50227,-8764
+83,EL,Greece,Energy supplied,Total,2017,56716.215,-6127
+92,EL,Greece,Total net production,Total,2017,50589.215,-6127
+84,EL,Greece,Energy supplied,Total,2018,57199.339,-6490.39
+93,EL,Greece,Total net production,Total,2018,50708.949,-6490.39
+97,ES,Spain,Energy supplied,Total,2016,267192,-2848
+106,ES,Spain,Total net production,Total,2016,264344,-2848
+98,ES,Spain,Energy supplied,Total,2017,270412,-5494
+107,ES,Spain,Total net production,Total,2017,264918,-5494
+99,ES,Spain,Energy supplied,Total,2018,268975.67,-7904.479
+108,ES,Spain,Total net production,Total,2018,261071.191,-7904.479
+112,FI,Finland,Energy supplied,Total,2016,85151,-18951
+121,FI,Finland,Total net production,Total,2016,66200,-18951
+113,FI,Finland,Energy supplied,Total,2017,85463,-20425
+122,FI,Finland,Total net production,Total,2017,65038,-20425
+114,FI,Finland,Energy supplied,Total,2018,87360.674,-19937
+123,FI,Finland,Total net production,Total,2018,67423.674,-19937
+127,FR,France,Energy supplied,Total,2016,492543.369,48224.585
+136,FR,France,Total net production,Total,2016,540767.954,48224.585
+128,FR,France,Energy supplied,Total,2017,490823.998,47218.325
+137,FR,France,Total net production,Total,2017,538042.323,47218.325
+129,FR,France,Energy supplied,Total,2018,481085.616,70600.207
+138,FR,France,Total net production,Total,2018,551685.823,70600.207
+142,GE,Georgia,Energy supplied,Total,2016,11285,80
+151,GE,Georgia,Total net production,Total,2016,11365,80
+143,GE,Georgia,Energy supplied,Total,2017,12127.3,-811.5
+152,GE,Georgia,Total net production,Total,2017,11315.8,-811.5
+144,GE,Georgia,Energy supplied,Total,2018,12853.73,-705.216
+153,GE,Georgia,Total net production,Total,2018,12148.514,-705.216
+157,HR,Croatia,Energy supplied,Total,2016,17521,-5237
+166,HR,Croatia,Total net production,Total,2016,12284,-5237
+158,HR,Croatia,Energy supplied,Total,2017,18190.4,-6667.5
+167,HR,Croatia,Total net production,Total,2017,11522.9,-6667.5
+159,HR,Croatia,Energy supplied,Total,2018,18537.364,-5280.824
+168,HR,Croatia,Total net production,Total,2018,13256.54,-5280.824
+172,HU,Hungary,Energy supplied,Total,2016,42259,-12711
+181,HU,Hungary,Total net production,Total,2016,29548,-12711
+173,HU,Hungary,Energy supplied,Total,2017,43554,-12878
+182,HU,Hungary,Total net production,Total,2017,30676,-12878
+174,HU,Hungary,Energy supplied,Total,2018,44098.104,-14348.225
+183,HU,Hungary,Total net production,Total,2018,29749.879,-14348.225
+187,IE,Ireland,Energy supplied,Total,2016,28445.088,1244.152
+196,IE,Ireland,Total net production,Total,2016,29689.24,1244.152
+188,IE,Ireland,Energy supplied,Total,2017,29009.829,1077.145
+197,IE,Ireland,Total net production,Total,2017,30086.974,1077.145
+189,IE,Ireland,Energy supplied,Total,2018,28707.828,527.058
+198,IE,Ireland,Total net production,Total,2018,29234.886,527.058
+202,IT,Italy,Energy supplied,Total,2016,314261.622,-34559
+211,IT,Italy,Total net production,Total,2016,279702.622,-34559
+203,IT,Italy,Energy supplied,Total,2017,320548.137,-35282.488
+212,IT,Italy,Total net production,Total,2017,285265.649,-35282.488
+204,IT,Italy,Energy supplied,Total,2018,321910,-41676
+213,IT,Italy,Total net production,Total,2018,280234,-41676
+217,LT,Lithuania,Energy supplied,Total,2016,11536,-7485
+226,LT,Lithuania,Total net production,Total,2016,4051,-7485
+218,LT,Lithuania,Energy supplied,Total,2017,11874.2,-7878.1
+227,LT,Lithuania,Total net production,Total,2017,3996.1,-7878.1
+219,LT,Lithuania,Energy supplied,Total,2018,12089.188,-8906.093
+228,LT,Lithuania,Total net production,Total,2018,3183.095,-8906.093
+232,LU,Luxembourg,Energy supplied,Total,2016,6523.878,-4356.188
+241,LU,Luxembourg,Total net production,Total,2016,2167.69,-4356.188
+233,LU,Luxembourg,Energy supplied,Total,2017,6549.101,-4344.363
+242,LU,Luxembourg,Total net production,Total,2017,2204.738,-4344.363
+234,LU,Luxembourg,Energy supplied,Total,2018,6608.7,-4443.838
+243,LU,Luxembourg,Total net production,Total,2018,2164.862,-4443.838
+247,LV,Latvia,Energy supplied,Total,2016,6960,-1033
+256,LV,Latvia,Total net production,Total,2016,5927,-1033
+248,LV,Latvia,Energy supplied,Total,2017,6960.694,64.165
+257,LV,Latvia,Total net production,Total,2017,7024.859,64.165
+249,LV,Latvia,Energy supplied,Total,2018,7408,-908
+258,LV,Latvia,Total net production,Total,2018,6500,-908
+262,ME,Montenegro,Energy supplied,Total,2016,3327,-304
+271,ME,Montenegro,Total net production,Total,2016,3023,-304
+263,ME,Montenegro,Energy supplied,Total,2017,3484,-1120.2
+272,ME,Montenegro,Total net production,Total,2017,2363.8,-1120.2
+264,ME,Montenegro,Energy supplied,Total,2018,9981,-6238
+273,ME,Montenegro,Total net production,Total,2018,3743,-6238
+277,MK,North Macedonia,Energy supplied,Total,2016,7315.006,-2030.753
+286,MK,North Macedonia,Total net production,Total,2016,5284.253,-2030.753
+278,MK,North Macedonia,Energy supplied,Total,2017,7209.41,-1982.545
+287,MK,North Macedonia,Total net production,Total,2017,5226.865,-1982.545
+279,MK,North Macedonia,Energy supplied,Total,2018,7123.5,-1919.764
+288,MK,North Macedonia,Total net production,Total,2018,5203.736,-1919.764
+292,MT,Malta,Energy supplied,Total,2016,2332.16,-1525
+301,MT,Malta,Total net production,Total,2016,807.16,-1525
+293,MT,Malta,Energy supplied,Total,2017,2455.826,-861.367
+302,MT,Malta,Total net production,Total,2017,1594.459,-861.367
+294,MT,Malta,Energy supplied,Total,2018,2509.14,-620.742
+303,MT,Malta,Total net production,Total,2018,1888.398,-620.742
+307,NL,Netherlands,Energy supplied,Total,2016,115946.625,-4914.372
+316,NL,Netherlands,Total net production,Total,2016,111032.253,-4914.372
+308,NL,Netherlands,Energy supplied,Total,2017,116971.246,-3506.212
+317,NL,Netherlands,Total net production,Total,2017,113465.034,-3506.212
+309,NL,Netherlands,Energy supplied,Total,2018,118412.371,-5861
+318,NL,Netherlands,Total net production,Total,2018,112551.371,-5861
+322,NO,Norway,Energy supplied,Total,2016,131229,17838
+331,NO,Norway,Total net production,Total,2016,149067,17838
+323,NO,Norway,Energy supplied,Total,2017,131824,16818
+332,NO,Norway,Total net production,Total,2017,148642,16818
+324,NO,Norway,Energy supplied,Total,2018,135674.508,11170.679
+333,NO,Norway,Total net production,Total,2018,146845.187,11170.679
+337,PL,Poland,Energy supplied,Total,2016,153258,-1255
+346,PL,Poland,Total net production,Total,2016,152003,-1255
+338,PL,Poland,Energy supplied,Total,2017,156421.464,-1552.12
+347,PL,Poland,Total net production,Total,2017,154869.344,-1552.12
+339,PL,Poland,Energy supplied,Total,2018,159130.403,-5033.903
+348,PL,Poland,Total net production,Total,2018,154096.5,-5033.903
+352,PT,Portugal,Energy supplied,Total,2016,52257.052,6605
+361,PT,Portugal,Total net production,Total,2016,58862.052,6605
+353,PT,Portugal,Energy supplied,Total,2017,52761.107,4907.871
+362,PT,Portugal,Total net production,Total,2017,57668.978,4907.871
+354,PT,Portugal,Energy supplied,Total,2018,53862,4223
+363,PT,Portugal,Total net production,Total,2018,58085,4223
+367,RO,Romania,Energy supplied,Total,2016,54579,5677
+376,RO,Romania,Total net production,Total,2016,60256,5677
+368,RO,Romania,Energy supplied,Total,2017,55995.38,3360.05
+377,RO,Romania,Total net production,Total,2017,59355.43,3360.05
+369,RO,Romania,Energy supplied,Total,2018,56178,2544
+378,RO,Romania,Total net production,Total,2018,58722,2544
+382,RS,Serbia,Energy supplied,Total,2016,33677,2951
+391,RS,Serbia,Total net production,Total,2016,36628,2951
+383,RS,Serbia,Energy supplied,Total,2017,34185.552,113
+392,RS,Serbia,Total net production,Total,2017,34298.552,113
+384,RS,Serbia,Energy supplied,Total,2018,34279.742,961.444
+393,RS,Serbia,Total net production,Total,2018,35241.186,961.444
+397,SE,Sweden,Energy supplied,Total,2016,140626,11905
+406,SE,Sweden,Total net production,Total,2016,152531,11905
+398,SE,Sweden,Energy supplied,Total,2017,141498,19028
+407,SE,Sweden,Total net production,Total,2017,160526,19028
+399,SE,Sweden,Energy supplied,Total,2018,141001.499,17285.589
+408,SE,Sweden,Total net production,Total,2018,158287.088,17285.589
+412,SI,Slovenia,Energy supplied,Total,2016,13997,1549
+421,SI,Slovenia,Total net production,Total,2016,15546,1549
+413,SI,Slovenia,Energy supplied,Total,2017,14515.916,880.96
+422,SI,Slovenia,Total net production,Total,2017,15396.876,880.96
+414,SI,Slovenia,Energy supplied,Total,2018,14529.653,754.601
+423,SI,Slovenia,Total net production,Total,2018,15284.254,754.601
+427,SK,Slovakia,Energy supplied,Total,2016,27314,-2317
+436,SK,Slovakia,Total net production,Total,2016,24997,-2317
+428,SK,Slovakia,Energy supplied,Total,2017,28302,-2610
+437,SK,Slovakia,Total net production,Total,2017,25692,-2610
+429,SK,Slovakia,Energy supplied,Total,2018,26997,-3280
+438,SK,Slovakia,Total net production,Total,2018,23717,-3280
+442,TR,Turkey,Energy supplied,Total,2016,266815,-4878
+451,TR,Turkey,Total net production,Total,2016,261937,-4878
+443,TR,Turkey,Energy supplied,Total,2017,283682.114,575.405
+452,TR,Turkey,Total net production,Total,2017,284257.519,575.405
+444,TR,Turkey,Energy supplied,Total,2018,288675.006,607.572
+453,TR,Turkey,Total net production,Total,2018,289282.578,607.572
+457,UA,Ukraine,Energy supplied,Total,2016,146503,5386
+466,UA,Ukraine,Total net production,Total,2016,151889,5386
+458,UA,Ukraine,Energy supplied,Total,2017,138155.6,6750.2
+467,UA,Ukraine,Total net production,Total,2017,144905.8,6750.2
+459,UA,Ukraine,Energy supplied,Total,2018,156020.2,3052.3
+468,UA,Ukraine,Total net production,Total,2018,159072.5,3052.3
